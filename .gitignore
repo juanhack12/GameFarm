@@ -1,0 +1,7 @@
+# Ignorar archivos de caché
+*.log
+*.tmp
+
+# Ignorar carpetas generadas por Unity
+Library/
+Temp/
